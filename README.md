@@ -5,8 +5,8 @@
 - 💭 Estudando atualmente CSS e SQL
 - ✉️ Contate-me no email: renanbecon1234@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barlitz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barlitz&layout=compact&langs_count=16&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanbarreto01&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanbarreto01&layout=compact&langs_count=16&theme=dark)
 </div>
 
 <div style="display: inline_block"><br>
