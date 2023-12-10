@@ -2,7 +2,7 @@
 
 
 - 🏛️ Hoje trabalho como aprendiz de T.I, mas estudo para ser um desenvolvedor.
-- 💭 Estudando atualmente CSS e SQL
+- 💭 Estudando atualmente JAVA, PYTHON E SQL
 - ✉️ Contate-me no email: renanbecon1234@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanbarreto01&show_icons=true&theme=dark)
@@ -17,4 +17,4 @@
      
 <div>
 <a href="https://instagram.com/renanb_barreto/" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
-<a href="https://www.linkedin.com/in/renan-barreto-3781a619b/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+<a href="https://www.linkedin.com/in/renanbeconbarreto/" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
